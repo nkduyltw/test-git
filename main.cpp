@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Duy";
+    cout << "Duy Nguyen";
     return 1;
 }
